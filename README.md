@@ -2,7 +2,7 @@
 
 Welcome to **Pizza Bites**, a delicious and visually appealing landing page created using **HTML, CSS, and JavaScript**. This is a frontend-only project designed to showcase UI/UX design skills for a pizza delivery or fast food brand.
 
-![Pizza Banner](./images/pizza.logo.jpeg)
+![Pizza Banner](./images/pizza.logo.jpeg) 
 
 ## 🔥 Features
 
@@ -30,7 +30,7 @@ pizza-bites/
 ## 🚀 Live Demo
 
 > Hosted on  GitHub Pages:
-🔗 Click Here to View Pizza Bites  : 
+🔗 Click Here to View Pizza Bites  : https://niharika1008.github.io/Pizza-Bites/
 
 ## 📸 Screenshots ##
 
